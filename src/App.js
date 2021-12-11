@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is Cloud Build test app, updated!
+          This is Cloud Build test app, updated!!
         </p>
         <a
           className="App-link"

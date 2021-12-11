@@ -14,5 +14,5 @@ steps:
 
 # Deploy
 - name: 'gcr.io/$PROJECT_ID/firebase'
-  args: ['deploy', '--project=testing-cicd-14f4a', '--only=hosting']
+  args: ['deploy', '--project=$PROJECT_ID', '--only=hosting']
 
